@@ -1,1 +1,2 @@
-currently support user:pw@host:port format only
+user:password@host:port
+or if you wanna format the proxy,just paste any proxy format (except user:pass@host:port)
